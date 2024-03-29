@@ -1,0 +1,49 @@
+^XA
+^CI28
+^LL576
+^PW825
+
+^FO55,50^GFA,144,144,4,FJ03C,::F01E03C,F81E07C,781E078,7C1E0F8,3C1E0F,3F1E3F,1F9E7E,0JFC,07IF8,01FFE,007F8,,:::::::FJ03C,:::78I078,:7CI0F8,3E001F,3F003F,1FC0FE,0JFC,07IF8,01FFE,003F,^FS
+
+
+
+
+^FO50,506^GFA,252,252,6,4,2,1,08N04,04N08,02M01,01M02,008L04,004L08,03BEJ01,0392J02,03FAJ07C,03BIF01EC,068207IF6,0481I06F6,0480800CCE,0C81C0187C,0E81A03018,0E81906008,0E81I8008,0E8187I08,0E8183I08,0E8185I08,0C80088008,0C80106008,0C80203008,078040180E,0F80800CFE,07830IFC,03IFE03,01ECI018,0098J0C,003K06,006K03,00CK018,01M0C,02M06,04M03,08M018,1O0C,2O02,4,^FS
+
+
+
+
+^CI28
+
+^FX Info
+^CFQ,20
+^FWB
+
+^FO 60, 0,  ^A 0, 20 ^FB576,1,0,C ^FD
+MADE IN AUSTRALA\&
+^FS
+
+^FO 100, 0,  ^A 0, 30 ^FB576,1,0,C ^FD
+www.polyeffects.com\&
+^FS
+
+
+
+{image}
+
+
+^FO 320, 54  ^GB 150, 468, 5 ^FS
+^FO 370, 107  ^A 0, 26 ^FD SERIAL NUMBER: {serial_number} ^FS
+^FO 405, 107  ^A 0, 26 ^FD COLOUR: {colour} ^FS
+
+^FO 485, 80,  ^A 0, 20 ^FB430,8,0,C ^FD
+This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) this device may not cause harmful interference, and (2) this device  must accept any interference received, including interference that may cause undesired operation.\&
+^FS
+
+^BY2,2,3
+^BX,5,200
+^FO 355, 410
+^FD{data_matrix}^FS
+
+^FO 670, 80 ^BY4,3,40 ^BE,80 ^FD{ean}^FS
+^XZ
