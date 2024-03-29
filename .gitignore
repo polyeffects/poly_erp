@@ -1,0 +1,6 @@
+*.json
+*.png
+inventree_parts_login.py
+posdamio
+__pycache__/
+bak_inv/
